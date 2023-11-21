@@ -1,7 +1,6 @@
 [
     {
-     "name": "keca"
-     "age": 20
-
-}
+     "name": "keca",
+     "age" : "20",
+    }
 ]
