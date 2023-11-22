@@ -20,8 +20,8 @@ function kali(a, b) {
 const passwordnyaApa = "kopi nikmat ga bikin kembung"
 
 //Coba lagi
-const manusia = {
-    nama: "hayo siapa",
+const siapa = {
+    nama: "kecaa",
     umur: 20,
     pekerjaan: "tidur",
 }
